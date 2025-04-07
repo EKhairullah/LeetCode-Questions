@@ -1,3 +1,5 @@
 *
 !.gitignore
 !file.cpp
+!file2.cpp
+!Partition Equal Subset Sum.cpp
