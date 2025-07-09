@@ -9,6 +9,7 @@ class Node{
     Node(int value){data = value,next = nullptr;}
 
 };
+
 class linkedlist{
     private:
     Node*head;
@@ -93,3 +94,6 @@ int main()
     list.display();
 
 }
+
+
+b1dcc9dd-5262-4d8d-a863-c897e6d979b9
